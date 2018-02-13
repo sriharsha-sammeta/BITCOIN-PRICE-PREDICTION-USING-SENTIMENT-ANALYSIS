@@ -20,10 +20,10 @@ parser.add_argument("errorfile", nargs='?', default="tweets_bitcoin_error.txt")
 args = parser.parse_args()
 
 #Variables that contains the user credentials to access Twitter API 
-access_token = "2569501620-dOSDk5kftHZiOTlWDzu66k9S7xKEh2GrpjNn1SA"
-access_token_secret = "makKH9EdIErBW8JhQdHdc594qWyH09VoQkZm4FFCAHCQk"
-consumer_key = "VZ4evnFfxQ0f1vyRpyoJrf5VT"
-consumer_secret = "dcSDKuSz0ODD8kqPgBdBX6u6l0JoGq8NDbGQ2Vvg5bukDo3weh"
+access_token = "#######"
+access_token_secret = "#######"
+consumer_key = "#######"
+consumer_secret = "#######"
 
 
 class Tweet:
